@@ -1,7 +1,6 @@
 ### Hi there, I'm Fábio Rodrigues 👋
 
 - 🌱 I’m currently learning everything 🤣
-- 👯 I’m looking to collaborate with other
 
 ### Connect with me:
 
@@ -26,23 +25,12 @@
 <img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
 
 <br />
-<br />
+
+---
+
+<img align="left" alt="sparthaa's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=sparthaa&show_icons=true&hide_border=true" />
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sparthaa)](https://github.com/sparthaa/github-readme-stats)
-
----
-
-<details>
-  <summary>:zap: Recent GitHub Activity</summary>
-  
-<!--START_SECTION:activity-->
-<!--END_SECTION:activity-->
-
-</details>
-
----
-
-[![Sparthaa's GitHub stats](https://github-readme-stats.vercel.app/api?username=sparthaa)](https://github.com/anuraghazra/github-readme-stats)
 
 [twitter]: https://twitter.com/Spartanfab
 [linkedin]: https://www.linkedin.com/in/fabiofrodrigues/
