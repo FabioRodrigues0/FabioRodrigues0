@@ -41,7 +41,7 @@
 
 ---
 
-<img align="left" alt="sparthaa's GitHub Stats" src="https://github-readme-stats.sparthaa.vercel.app/api?username=sparthaa&show_icons=true&hide_border=true" />
+<img align="left" alt="sparthaa's GitHub Stats" src="https://github-readme-stats.sparthaa/api?username=sparthaa&show_icons=true&hide_border=true" />
 
 [twitter]: https://twitter.com/Spartanfab
 [linkedin]: https://www.linkedin.com/in/fabiofrodrigues/
