@@ -29,9 +29,9 @@
 
 ---
 
-<img align="left" alt="sparthaa's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=sparthaa&show_icons=true&hide_border=true" />
+<img align="left" alt="FabioRodrigues0's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=FabioRodrigues0&show_icons=true&hide_border=true" />
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sparthaa)](https://github.com/sparthaa/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FabioRodrigues0)](https://github.com/FabioRodrigues0/github-readme-stats)
 
 [twitter]: https://twitter.com/Spartanfab
 [linkedin]: https://www.linkedin.com/in/fabiofrodrigues/
