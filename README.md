@@ -49,9 +49,11 @@
 
 ## 📊 Estatísticas
 
+https://github-stats-extended.vercel.app
+
 <a href="https://github.com/FabioRodrigues0">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=FabioRodrigues0&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FabioRodrigues0&layout=compact&theme=github_dark"/>
+  <img height="180em" src="https://github-stats-extended.vercel.app/api?username=FabioRodrigues0&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-stats-extended.vercel.app/api/top-langs?username=FabioRodrigues0&layout=compact&hide_title=true&langs_count=6&theme=transparent"/>
 </a>
 
 ---
